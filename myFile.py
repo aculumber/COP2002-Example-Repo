@@ -1,5 +1,5 @@
 # Creating a project for GitHub
-# By James Nichols
+# By Abbey Culumber
 
 print("COP2002 Summer 2025")
 
